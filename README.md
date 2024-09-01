@@ -1,8 +1,8 @@
 # Session-36 Task
 
-### MongoDB task : https://docs.google.com/document/d/1zlRpu48S1Q5wEJ1R32cNDrLdsAq79ZXbLxHqS8SaW5M/edit
+MongoDB task : https://docs.google.com/document/d/1zlRpu48S1Q5wEJ1R32cNDrLdsAq79ZXbLxHqS8SaW5M/edit
 
-Simply get to this website to view all the queries: https://www.db-fiddle.com/f/tL3QyYFRhmugyzkjSnWCdP/3
+### Simply get to this website to view all the queries: https://www.db-fiddle.com/f/tL3QyYFRhmugyzkjSnWCdP/3
 
 (Left side):
   1. Table creattion queries.
